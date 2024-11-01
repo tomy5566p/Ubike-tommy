@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Ubike-tommy/static/css/main.b1cd11e0.css",
-    "main.js": "/Ubike-tommy/static/js/main.6130e139.js",
+    "main.js": "/Ubike-tommy/static/js/main.969d7006.js",
     "index.html": "/Ubike-tommy/index.html",
     "main.b1cd11e0.css.map": "/Ubike-tommy/static/css/main.b1cd11e0.css.map",
-    "main.6130e139.js.map": "/Ubike-tommy/static/js/main.6130e139.js.map"
+    "main.969d7006.js.map": "/Ubike-tommy/static/js/main.969d7006.js.map"
   },
   "entrypoints": [
     "static/css/main.b1cd11e0.css",
-    "static/js/main.6130e139.js"
+    "static/js/main.969d7006.js"
   ]
 }
