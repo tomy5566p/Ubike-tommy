@@ -56,6 +56,7 @@ const UbikeTable: React.FC = () => {
   };
 
   useEffect(() => {
+    document.title = 'YouBike 站點資訊';
     fetchUbikeData();
     const interval = setInterval(fetchUbikeData, 60000); 
     return () => clearInterval(interval);
