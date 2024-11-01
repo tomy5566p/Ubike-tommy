@@ -12,7 +12,7 @@
 
 1. clone此專案：
    ```bash
-   git clone https://github.com/你的帳號/ubike-info.git
+   git clone https://github.com/tomy5566p/Ubike-tommy.git
 2. 進入專案資料夾並安裝依賴套件：
     cd ubike-tommy
     npm install
